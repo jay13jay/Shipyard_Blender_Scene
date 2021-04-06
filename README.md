@@ -1,5 +1,10 @@
 # Blender Shipyard Scene Planning Document
 
+## Description
+____
+
+A shipyard scene in blender using modular assets
+
 ## Idea
 
 To build a shipyard with a large ship, possibly a container ship, to be used in a horror/adventure escape room type game
