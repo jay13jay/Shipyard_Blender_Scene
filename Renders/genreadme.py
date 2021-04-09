@@ -20,7 +20,7 @@ def render():
   output = template.render(title="Gallery", names=names, desc=desc)
   with open("readme.md", "w") as f:
     f.write(output)
-  print(output)
+  
 
 def get_names(files): 
   count = 1
